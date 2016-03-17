@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /notification/
+Disallow: /csv-4180/CSV%204180%20EULA.pdf$
+Disallow: /fb2-add-in/FB2%20Add-In%20EULA.pdf$
+Disallow: /fb2-word-viewer/FB2%20Word%20Viewer%20EULA.pdf$
+Sitemap: https://docinoffice.ru/sitemap.xml
+Host: https://docinoffice.ru
