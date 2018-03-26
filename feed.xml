@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://docinoffice.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://docinoffice.ru/" rel="alternate" type="text/html" /><updated>2018-03-12T12:09:39+03:00</updated><id>https://docinoffice.ru/</id><title type="html">Проект DocInOffice</title><subtitle>Проект DocInOffice создаёт расширения для программ Microsoft Office.</subtitle><entry><title type="html">FB2 Add-In 1.0.18</title><link href="https://docinoffice.ru/news/2017/06/09/fb2-add-in-v1.0.18/" rel="alternate" type="text/html" title="FB2 Add-In 1.0.18" /><published>2017-06-09T13:20:00+03:00</published><updated>2017-06-09T13:20:00+03:00</updated><id>https://docinoffice.ru/news/2017/06/09/fb2-add-in-v1.0.18</id><content type="html" xml:base="https://docinoffice.ru/news/2017/06/09/fb2-add-in-v1.0.18/">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://docinoffice.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://docinoffice.ru/" rel="alternate" type="text/html" /><updated>2018-03-26T12:08:28+03:00</updated><id>https://docinoffice.ru/</id><title type="html">Проект DocInOffice</title><subtitle>Проект DocInOffice создаёт расширения для программ Microsoft Office.</subtitle><entry><title type="html">FB2 Add-In 1.0.19</title><link href="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/" rel="alternate" type="text/html" title="FB2 Add-In 1.0.19" /><published>2018-03-26T12:00:00+03:00</published><updated>2018-03-26T12:00:00+03:00</updated><id>https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19</id><content type="html" xml:base="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Доступна новая версия для тестирования FB2 Add-In v1.0.19.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;В этой версии:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Добавлен инсталлятор для Word 2016.&lt;/li&gt;
+  &lt;li&gt;Добавлен стиль, который не обрабатывется и текст с данным стилем не переноситься в FB2 файл.&lt;/li&gt;
+  &lt;li&gt;Добавлена обработка меток коментарий, как на чтения FB2 файла, так и на запись FB2 файла.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;</content><author><name>Леонид</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://docinoffice.ru/images/logo-256px.png" /></entry><entry><title type="html">FB2 Add-In 1.0.18</title><link href="https://docinoffice.ru/news/2017/06/09/fb2-add-in-v1.0.18/" rel="alternate" type="text/html" title="FB2 Add-In 1.0.18" /><published>2017-06-09T13:20:00+03:00</published><updated>2017-06-09T13:20:00+03:00</updated><id>https://docinoffice.ru/news/2017/06/09/fb2-add-in-v1.0.18</id><content type="html" xml:base="https://docinoffice.ru/news/2017/06/09/fb2-add-in-v1.0.18/">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Доступна новая версия для тестирования FB2 Add-In v1.0.18.&lt;/strong&gt;&lt;/p&gt;
 
@@ -90,10 +104,4 @@
 
 &lt;p&gt;Добавлена версия для Microsoft Word 2016.&lt;/p&gt;
 
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;</content><author><name>Леонид</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://docinoffice.ru/fb2-word-viewer/images/logo-256px.png" /></entry><entry><title type="html">FB2 Word Viewer 1.0.6</title><link href="https://docinoffice.ru/news/2013/12/27/fb2-word-viewer-v1.0.6/" rel="alternate" type="text/html" title="FB2 Word Viewer 1.0.6" /><published>2013-12-27T11:08:00+03:00</published><updated>2013-12-27T11:08:00+03:00</updated><id>https://docinoffice.ru/news/2013/12/27/fb2-word-viewer-v1.0.6</id><content type="html" xml:base="https://docinoffice.ru/news/2013/12/27/fb2-word-viewer-v1.0.6/">&lt;p&gt;Привет народ.&lt;/p&gt;
-
-&lt;p&gt;Доступна новая версия FB2 Word Viewer 1.0.6.&lt;/p&gt;
-
-&lt;p&gt;В новой версии поработал над сносками и комментариями.&lt;/p&gt;
-
-&lt;p&gt;Вопросы и предложения присылайте на почту support@docinoffice.ru&lt;/p&gt;</content><author><name>Леонид</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://docinoffice.ru/fb2-word-viewer/images/logo-256px.png" /></entry></feed>
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;</content><author><name>Леонид</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://docinoffice.ru/fb2-word-viewer/images/logo-256px.png" /></entry></feed>
