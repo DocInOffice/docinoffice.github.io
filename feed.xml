@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://docinoffice.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://docinoffice.ru/" rel="alternate" type="text/html" /><updated>2018-04-13T10:55:00+03:00</updated><id>https://docinoffice.ru/</id><title type="html">Проект DocInOffice</title><subtitle>Проект DocInOffice создаёт расширения для программ Microsoft Office.</subtitle><entry><title type="html">FB2 Add-In 1.0.19</title><link href="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/" rel="alternate" type="text/html" title="FB2 Add-In 1.0.19" /><published>2018-03-26T12:00:00+03:00</published><updated>2018-03-26T12:00:00+03:00</updated><id>https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19</id><content type="html" xml:base="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://docinoffice.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://docinoffice.ru/" rel="alternate" type="text/html" /><updated>2018-10-25T11:34:28+03:00</updated><id>https://docinoffice.ru/</id><title type="html">Проект DocInOffice</title><subtitle>Проект DocInOffice создаёт расширения для программ Microsoft Office.</subtitle><entry><title type="html">CSV 4180 v1.0.20</title><link href="https://docinoffice.ru/news/2018/10/25/csv-4180-v1.0.20/" rel="alternate" type="text/html" title="CSV 4180 v1.0.20" /><published>2018-10-25T11:00:00+03:00</published><updated>2018-10-25T11:00:00+03:00</updated><id>https://docinoffice.ru/news/2018/10/25/csv-4180-v1.0.20</id><content type="html" xml:base="https://docinoffice.ru/news/2018/10/25/csv-4180-v1.0.20/">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Доступна новая версия CSV 4180 v1.0.20.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;В этой версии:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Исправлена ошибка в расширении для Excel 2007.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;/csv-4180/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;</content><author><name>Леонид</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://docinoffice.ru/images/logo-256px.png" /></entry><entry><title type="html">FB2 Add-In 1.0.19</title><link href="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/" rel="alternate" type="text/html" title="FB2 Add-In 1.0.19" /><published>2018-03-26T12:00:00+03:00</published><updated>2018-03-26T12:00:00+03:00</updated><id>https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19</id><content type="html" xml:base="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Доступна новая версия для тестирования FB2 Add-In v1.0.19.&lt;/strong&gt;&lt;/p&gt;
 
@@ -97,11 +109,5 @@
 &lt;p&gt;В связи с особенностями обновления до Windows 10 пришлось менять схему инсталляторов.&lt;/p&gt;
 
 &lt;p&gt;Обратите внимания, теперь они разделяются по разрядности Windows, а не по разрядности офиса как это было раньше.&lt;/p&gt;
-
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;</content><author><name>Леонид</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://docinoffice.ru/fb2-word-viewer/images/logo-256px.png" /></entry><entry><title type="html">FB2 Word Viewer 1.0.10</title><link href="https://docinoffice.ru/news/2016/05/06/fb2-word-viewer-v1.0.10/" rel="alternate" type="text/html" title="FB2 Word Viewer 1.0.10" /><published>2016-05-06T18:50:00+03:00</published><updated>2016-05-06T18:50:00+03:00</updated><id>https://docinoffice.ru/news/2016/05/06/fb2-word-viewer-v1.0.10</id><content type="html" xml:base="https://docinoffice.ru/news/2016/05/06/fb2-word-viewer-v1.0.10/">&lt;p&gt;Привет народ.&lt;/p&gt;
-
-&lt;p&gt;Доступна новая версия FB2 Word Viewer 1.0.10.&lt;/p&gt;
-
-&lt;p&gt;Добавлена версия для Microsoft Word 2016.&lt;/p&gt;
 
 &lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;</content><author><name>Леонид</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://docinoffice.ru/fb2-word-viewer/images/logo-256px.png" /></entry></feed>
