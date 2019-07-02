@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://docinoffice.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://docinoffice.ru/" rel="alternate" type="text/html" /><updated>2018-10-25T11:34:28+03:00</updated><id>https://docinoffice.ru/</id><title type="html">Проект DocInOffice</title><subtitle>Проект DocInOffice создаёт расширения для программ Microsoft Office.</subtitle><entry><title type="html">CSV 4180 v1.0.20</title><link href="https://docinoffice.ru/news/2018/10/25/csv-4180-v1.0.20/" rel="alternate" type="text/html" title="CSV 4180 v1.0.20" /><published>2018-10-25T11:00:00+03:00</published><updated>2018-10-25T11:00:00+03:00</updated><id>https://docinoffice.ru/news/2018/10/25/csv-4180-v1.0.20</id><content type="html" xml:base="https://docinoffice.ru/news/2018/10/25/csv-4180-v1.0.20/">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://docinoffice.ru/feed.xml" rel="self" type="application/atom+xml" /><link href="https://docinoffice.ru/" rel="alternate" type="text/html" /><updated>2019-09-01T12:08:11+03:00</updated><id>https://docinoffice.ru/feed.xml</id><title type="html">Проект DocInOffice</title><subtitle>Проект DocInOffice создаёт расширения для программ Microsoft Office.</subtitle><entry><title type="html">CSV 4180 1.0.21</title><link href="https://docinoffice.ru/news/2018/06/29/csv-4180-v1.0.21/" rel="alternate" type="text/html" title="CSV 4180 1.0.21" /><published>2018-06-29T15:50:00+03:00</published><updated>2018-06-29T15:50:00+03:00</updated><id>https://docinoffice.ru/news/2018/06/29/csv-4180-v1.0.21</id><content type="html" xml:base="https://docinoffice.ru/news/2018/06/29/csv-4180-v1.0.21/">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Доступна новая версия CSV 4180 v1.0.20.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Доступна новая CSV 4180 v1.0.21.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;В этой версии:&lt;/p&gt;
+&lt;p&gt;Проект CSV 4180 теперь распространяется как Open Source под лицензией MIT.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Исправлена ошибка в расширении для Excel 2007.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Разработка программы теперь ведётся на &lt;a href=&quot;https://github.com/maliutin/csv-4180&quot;&gt;Github&lt;/a&gt;. Там можно посмотреть исходники кода, задать вопрос и сообщить о проблеме.&lt;/p&gt;
 
-&lt;p&gt;Скачать программу можно &lt;a href=&quot;/csv-4180/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Инсталлятор программы CSV 4180 переработан и он теперь один для всех версий Excel.&lt;/p&gt;
 
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;</content><author><name>Леонид</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://docinoffice.ru/images/logo-256px.png" /></entry><entry><title type="html">FB2 Add-In 1.0.19</title><link href="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/" rel="alternate" type="text/html" title="FB2 Add-In 1.0.19" /><published>2018-03-26T12:00:00+03:00</published><updated>2018-03-26T12:00:00+03:00</updated><id>https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19</id><content type="html" xml:base="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.ru/csv-4180/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;</content><author><name>Леонид</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://docinoffice.ru/images/logo-256px.png" /></entry><entry><title type="html">FB2 Add-In 1.0.19</title><link href="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/" rel="alternate" type="text/html" title="FB2 Add-In 1.0.19" /><published>2018-03-26T12:00:00+03:00</published><updated>2018-03-26T12:00:00+03:00</updated><id>https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19</id><content type="html" xml:base="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Доступна новая версия для тестирования FB2 Add-In v1.0.19.&lt;/strong&gt;&lt;/p&gt;
 
