@@ -1,19 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru-ru">
 <head>
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-84926131-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-84926131-1');
-</script>
-
-
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,11 +15,11 @@
 <link rel="canonical" href="https://docinoffice.ru/news/" />
 <link rel="alternate" type="application/rss+xml" title="Проект DocInOffice" href="https://docinoffice.ru/feed.xml"/>
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" />
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="stylesheet" href="/assets/bootstrap/3.4.1/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/assets/bootstrap/3.4.1/css/bootstrap-theme.min.css" />
+<link rel="stylesheet" href="/assets/font-awesome-4.7.0/css/font-awesome.min.css" />
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans" />
+<link rel="stylesheet" href="/assets/fonts/noto-sans/400.css">
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -41,8 +28,8 @@
   <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="/assets/jquery/3.2.0/jquery.min.js"></script>
+<script src="/assets/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 <!-- <link href="/css/style.min.css" rel="stylesheet" media="all" /> -->
 <style>
@@ -52,24 +39,6 @@
 </style>
 </head>
 <body>
-
-
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-   ym(36947015, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/36947015" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
-<noscript><div><img src="https://mc.yandex.ru/watch/36947015" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-
 <div class="container">
 	<div class="row">
 		<nav class="navbar navbar-default">
@@ -107,94 +76,65 @@
 <!-- This loops through the paginated posts -->
 
   <h2><a href="/news/2018/06/29/csv-4180-v1.0.21/">CSV 4180 1.0.21</a></h2>
-  <p class="text-info">2018-06-29 15:50:00 +0300, Леонид</p>
+  <p class="text-info">2018-06-29 15:50:00</p>
   <div class="content">
     <p><em>Привет народ.</em></p>
-
 <p><strong>Доступна новая CSV 4180 v1.0.21.</strong></p>
-
 <p>Проект CSV 4180 теперь распространяется как Open Source под лицензией MIT.</p>
-
 <p>Разработка программы теперь ведётся на <a href="https://github.com/maliutin/csv-4180">Github</a>. Там можно посмотреть исходники кода, задать вопрос и сообщить о проблеме.</p>
-
 <p>Инсталлятор программы CSV 4180 переработан и он теперь один для всех версий Excel.</p>
-
-<p>Скачать программу можно <a href="https://docinoffice.ru/csv-4180/download/">здесь</a>.</p>
-
-<p>Вопросы и предложения оставляйте через <a href="https://docinoffice.ru/contacts/">обратную связь</a>.</p>
-
+<p>Скачать программу можно <a href="/csv-4180/download/">здесь</a>.</p>
+<p>Вопросы и предложения оставляйте через <a href="/contacts/">обратную связь</a>.</p>
 
   </div>
 
   <h2><a href="/news/2018/03/26/fb2-add-in-v1.0.19/">FB2 Add-In 1.0.19</a></h2>
-  <p class="text-info">2018-03-26 12:00:00 +0300, Леонид</p>
+  <p class="text-info">2018-03-26 12:00:00</p>
   <div class="content">
     <p><em>Привет народ.</em></p>
-
 <p><strong>Доступна новая версия для тестирования FB2 Add-In v1.0.19.</strong></p>
-
 <p>В этой версии:</p>
-
 <ul>
-  <li>Добавлен инсталлятор для Word 2016.</li>
-  <li>Добавлен стиль, который не обрабатывется и текст с данным стилем не переноситься в FB2 файл.</li>
-  <li>Добавлена обработка меток коментарий, как на чтения FB2 файла, так и на запись FB2 файла.</li>
+<li>Добавлен инсталлятор для Word 2016.</li>
+<li>Добавлен стиль, который не обрабатывется и текст с данным стилем не переноситься в FB2 файл.</li>
+<li>Добавлена обработка меток коментарий, как на чтения FB2 файла, так и на запись FB2 файла.</li>
 </ul>
-
 <p>Скачать программу можно <a href="/fb2-add-in/download/">здесь</a>.</p>
-
 <p>Вопросы и предложения оставляйте через <a href="/contacts/">обратную связь</a>.</p>
-
 
   </div>
 
   <h2><a href="/news/2017/06/09/fb2-add-in-v1.0.18/">FB2 Add-In 1.0.18</a></h2>
-  <p class="text-info">2017-06-09 13:20:00 +0300, Леонид</p>
+  <p class="text-info">2017-06-09 13:20:00</p>
   <div class="content">
     <p><em>Привет народ.</em></p>
-
 <p><strong>Доступна новая версия для тестирования FB2 Add-In v1.0.18.</strong></p>
-
 <p>В этой версии добавлены инсталляторы для Word 2013 и Word 2007.</p>
-
 <p>Также по-прежнему доступен инсталлятор для Word 2010.</p>
-
 <p>Скачать программу можно <a href="/fb2-add-in/download/">здесь</a>.</p>
-
 <p>Вопросы и предложения оставляйте через <a href="/contacts/">обратную связь</a>.</p>
-
 
   </div>
 
   <h2><a href="/news/2017/05/26/fb2-add-in-v1.0.17/">FB2 Add-In 1.0.17</a></h2>
-  <p class="text-info">2017-05-26 19:30:00 +0300, Леонид</p>
+  <p class="text-info">2017-05-26 19:30:00</p>
   <div class="content">
     <p>Привет народ.</p>
-
 <p>Доступна новая версия для тестирования FB2 Add-In v1.0.17.</p>
-
 <p>Поправил работу с изображениями и стилями параграфов.</p>
-
 <p>Скачать программу можно <a href="/fb2-add-in/download/">здесь</a>.</p>
-
 <p>Вопросы и предложения оставляйте через <a href="/contacts/">обратную связь</a>.</p>
-
 
   </div>
 
   <h2><a href="/news/2017/03/29/fb2-add-in-v1.0.16/">FB2 Add-In 1.0.16</a></h2>
-  <p class="text-info">2017-03-29 19:51:00 +0300, Леонид</p>
+  <p class="text-info">2017-03-29 19:51:00</p>
   <div class="content">
     <p>Привет народ.</p>
-
 <p>Доступна новая версия для тестирования FB2 Add-In v1.0.16.</p>
-
 <p>В этой версии добавлен функционал для добавления изображения в текст.</p>
-
 <p>Скачать программу можно <a href="/fb2-add-in/download/">здесь</a>.</p>
-
 <p>Вопросы и предложения оставляйте через <a href="/contacts/">обратную связь</a>.</p>
-
 
   </div>
 
@@ -205,7 +145,7 @@
 			<ul class="pager">
 				
 				
-				<li class="next"><a href="/news/page2/">Ещё <span aria-hidden="true">&rarr;</span></a></li>
+				<li class="next"><a href="/news/1/">Ещё <span aria-hidden="true">&rarr;</span></a></li>
 				
 			</ul>
 		</nav>
