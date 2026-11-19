@@ -3,32 +3,32 @@
   
   <title>Проект DocInOffice</title>
   <subtitle>Проект DocInOffice создаёт расширения для программ Microsoft Office.</subtitle>
-  <link href="https://docinoffice.ru/feed.xml" rel="self" />
-  <link href="https://docinoffice.ru/" />
+  <link href="https://docinoffice.github.io/feed.xml" rel="self" />
+  <link href="https://docinoffice.github.io/" />
   <updated>2018-06-29T12:50:00Z</updated>
-  <id>https://docinoffice.ru/</id>
+  <id>https://docinoffice.github.io/</id>
   <author>
     <name>Леонид</name>
   </author>
   <entry>
     <title>CSV 4180 1.0.21</title>
-    <link href="https://docinoffice.ru/news/2018/06/29/csv-4180-v1.0.21/" />
+    <link href="https://docinoffice.github.io/news/2018/06/29/csv-4180-v1.0.21/" />
     <updated>2018-06-29T12:50:00Z</updated>
-    <id>https://docinoffice.ru/news/2018/06/29/csv-4180-v1.0.21/</id>
+    <id>https://docinoffice.github.io/news/2018/06/29/csv-4180-v1.0.21/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Доступна новая CSV 4180 v1.0.21.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Проект CSV 4180 теперь распространяется как Open Source под лицензией MIT.&lt;/p&gt;
 &lt;p&gt;Разработка программы теперь ведётся на &lt;a href=&quot;https://github.com/maliutin/csv-4180&quot;&gt;Github&lt;/a&gt;. Там можно посмотреть исходники кода, задать вопрос и сообщить о проблеме.&lt;/p&gt;
 &lt;p&gt;Инсталлятор программы CSV 4180 переработан и он теперь один для всех версий Excel.&lt;/p&gt;
-&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.ru/csv-4180/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.github.io/csv-4180/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.github.io/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Add-In 1.0.19</title>
-    <link href="https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/" />
+    <link href="https://docinoffice.github.io/news/2018/03/26/fb2-add-in-v1.0.19/" />
     <updated>2018-03-26T09:00:00Z</updated>
-    <id>https://docinoffice.ru/news/2018/03/26/fb2-add-in-v1.0.19/</id>
+    <id>https://docinoffice.github.io/news/2018/03/26/fb2-add-in-v1.0.19/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Доступна новая версия для тестирования FB2 Add-In v1.0.19.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;В этой версии:&lt;/p&gt;
@@ -37,184 +37,184 @@
 &lt;li&gt;Добавлен стиль, который не обрабатывется и текст с данным стилем не переноситься в FB2 файл.&lt;/li&gt;
 &lt;li&gt;Добавлена обработка меток коментарий, как на чтения FB2 файла, так и на запись FB2 файла.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.ru/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.github.io/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.github.io/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Add-In 1.0.18</title>
-    <link href="https://docinoffice.ru/news/2017/06/09/fb2-add-in-v1.0.18/" />
+    <link href="https://docinoffice.github.io/news/2017/06/09/fb2-add-in-v1.0.18/" />
     <updated>2017-06-09T10:20:00Z</updated>
-    <id>https://docinoffice.ru/news/2017/06/09/fb2-add-in-v1.0.18/</id>
+    <id>https://docinoffice.github.io/news/2017/06/09/fb2-add-in-v1.0.18/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Привет народ.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Доступна новая версия для тестирования FB2 Add-In v1.0.18.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;В этой версии добавлены инсталляторы для Word 2013 и Word 2007.&lt;/p&gt;
 &lt;p&gt;Также по-прежнему доступен инсталлятор для Word 2010.&lt;/p&gt;
-&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.ru/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.github.io/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.github.io/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Add-In 1.0.17</title>
-    <link href="https://docinoffice.ru/news/2017/05/26/fb2-add-in-v1.0.17/" />
+    <link href="https://docinoffice.github.io/news/2017/05/26/fb2-add-in-v1.0.17/" />
     <updated>2017-05-26T16:30:00Z</updated>
-    <id>https://docinoffice.ru/news/2017/05/26/fb2-add-in-v1.0.17/</id>
+    <id>https://docinoffice.github.io/news/2017/05/26/fb2-add-in-v1.0.17/</id>
     <content type="html">&lt;p&gt;Привет народ.&lt;/p&gt;
 &lt;p&gt;Доступна новая версия для тестирования FB2 Add-In v1.0.17.&lt;/p&gt;
 &lt;p&gt;Поправил работу с изображениями и стилями параграфов.&lt;/p&gt;
-&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.ru/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.github.io/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.github.io/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Add-In 1.0.16</title>
-    <link href="https://docinoffice.ru/news/2017/03/29/fb2-add-in-v1.0.16/" />
+    <link href="https://docinoffice.github.io/news/2017/03/29/fb2-add-in-v1.0.16/" />
     <updated>2017-03-29T16:51:00Z</updated>
-    <id>https://docinoffice.ru/news/2017/03/29/fb2-add-in-v1.0.16/</id>
+    <id>https://docinoffice.github.io/news/2017/03/29/fb2-add-in-v1.0.16/</id>
     <content type="html">&lt;p&gt;Привет народ.&lt;/p&gt;
 &lt;p&gt;Доступна новая версия для тестирования FB2 Add-In v1.0.16.&lt;/p&gt;
 &lt;p&gt;В этой версии добавлен функционал для добавления изображения в текст.&lt;/p&gt;
-&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.ru/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.github.io/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.github.io/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Add-In 1.0.15</title>
-    <link href="https://docinoffice.ru/news/2017/03/24/fb2-add-in-v1.0.15/" />
+    <link href="https://docinoffice.github.io/news/2017/03/24/fb2-add-in-v1.0.15/" />
     <updated>2017-03-24T13:28:00Z</updated>
-    <id>https://docinoffice.ru/news/2017/03/24/fb2-add-in-v1.0.15/</id>
+    <id>https://docinoffice.github.io/news/2017/03/24/fb2-add-in-v1.0.15/</id>
     <content type="html">&lt;p&gt;Привет народ.&lt;/p&gt;
 &lt;p&gt;Доступна версия FB2 Add-In v1.0.15.&lt;/p&gt;
 &lt;p&gt;FB2 Add-In - редактор для fb2 файлов, а точнее расширение для Microsoft Word. Хочу чтоб пользователи, которые создают FB2 книги имели мощное средство, как Word, для создания качественного контента. Т.е. чтобы в тексте было меньше ошибок и пунктуация не хромала.&lt;/p&gt;
 &lt;p&gt;Как работать.&lt;/p&gt;
 &lt;p&gt;После установки FB2 Add-In вам в окнах «Открытие документ» и «Сохранение документа» будет доступен тип файлов «FB2 Book»:&lt;/p&gt;
-&lt;img src=&quot;https://docinoffice.ru/fb2-add-in/images/the-ebook/fb2-addin-file-type.png&quot; class=&quot;img-responsive&quot;&gt;
+&lt;img src=&quot;https://docinoffice.github.io/fb2-add-in/images/the-ebook/fb2-addin-file-type.png&quot; class=&quot;img-responsive&quot;&gt;
 &lt;p&gt;Так как программа тестовая, то в ней отключено возможность открытия по двойному щелчку в Windows Explorer, чтобы случайно не испортить нормальные fb2 файлы книг.&lt;/p&gt;
 &lt;p&gt;Чтобы создать новую FB2 книгу, нужно в Windows Explorer вызвать контекстное меню папки и выбрать «FB2 Book» из подменю «Создать»:&lt;/p&gt;
-&lt;img src=&quot;https://docinoffice.ru/fb2-add-in/images/the-ebook/fb2-addin-create-in-windows-explorer.png&quot; class=&quot;img-responsive&quot;&gt;
-&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.ru/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;img src=&quot;https://docinoffice.github.io/fb2-add-in/images/the-ebook/fb2-addin-create-in-windows-explorer.png&quot; class=&quot;img-responsive&quot;&gt;
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.github.io/fb2-add-in/download/&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;На данный момент доступна только версия для Microsoft Word 2010.&lt;/p&gt;
 &lt;p&gt;Полноценная реализация программы реальна, но она требует очень много времени. И чтобы укорить процесс я решил создать &lt;a href=&quot;https://planeta.ru/campaigns/fb2-addin&quot;&gt;краудфандинговый проект&lt;/a&gt;. Средства потрачу, чтобы  сосредоточиться полностью на развитии программы.&lt;/p&gt;
 &lt;p&gt;За новостями следите здесь, в &lt;a href=&quot;https://planeta.ru/campaigns/fb2-addin&quot;&gt;проекте&lt;/a&gt; на planeta.ru, в &lt;a href=&quot;https://twitter.com/docinoffice_ru&quot;&gt;твиттере&lt;/a&gt; и в &lt;a href=&quot;https://t.me/docinoffice4ru&quot;&gt;телеграмм&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.github.io/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Word Viewer 1.0.13</title>
-    <link href="https://docinoffice.ru/news/2017/01/02/fb2-word-viewer-v1.0.13/" />
+    <link href="https://docinoffice.github.io/news/2017/01/02/fb2-word-viewer-v1.0.13/" />
     <updated>2017-01-02T07:52:00Z</updated>
-    <id>https://docinoffice.ru/news/2017/01/02/fb2-word-viewer-v1.0.13/</id>
+    <id>https://docinoffice.github.io/news/2017/01/02/fb2-word-viewer-v1.0.13/</id>
     <content type="html">&lt;p&gt;Привет народ.&lt;/p&gt;
 &lt;p&gt;Привет народ. Всех с новым годом!&lt;/p&gt;
 &lt;p&gt;Доступна новая версия FB2 Word Viewer v1.0.13.&lt;/p&gt;
 &lt;p&gt;Исправлены ошибки, переработаны инсталляторы.&lt;/p&gt;
 &lt;p&gt;Для любителей печатать изменён формат страниц с Letter на А4. :)&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.github.io/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Установка на Windows 10</title>
-    <link href="https://docinoffice.ru/news/2016/08/05/fb2-install-in-windows-10/" />
+    <link href="https://docinoffice.github.io/news/2016/08/05/fb2-install-in-windows-10/" />
     <updated>2016-08-05T16:10:00Z</updated>
-    <id>https://docinoffice.ru/news/2016/08/05/fb2-install-in-windows-10/</id>
+    <id>https://docinoffice.github.io/news/2016/08/05/fb2-install-in-windows-10/</id>
     <content type="html">&lt;p&gt;Замечание по установке.&lt;/p&gt;
 &lt;p&gt;Походу Microsoft начало закручивать гайки для программ свободно распространяемых через интернет. Мол, все идите к ним в магазин. Поэтому, не смотря на то, что файлы инсталляторов подписаны, на Windows 10 вы можете увидеть красное или синее окно предупреждение.&lt;/p&gt;
-&lt;img src=&quot;https://docinoffice.ru/fb2-word-viewer/images/the-ebook/warning-window.png&quot; class=&quot;img-responsive&quot;&gt;
+&lt;img src=&quot;https://docinoffice.github.io/fb2-word-viewer/images/the-ebook/warning-window.png&quot; class=&quot;img-responsive&quot;&gt;
 &lt;p&gt;Чтобы продолжить установку нажмите на слово &lt;strong&gt;Подробнее&lt;/strong&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Word Viewer 1.0.12</title>
-    <link href="https://docinoffice.ru/news/2016/08/04/fb2-word-viewer-v1.0.12/" />
+    <link href="https://docinoffice.github.io/news/2016/08/04/fb2-word-viewer-v1.0.12/" />
     <updated>2016-08-04T16:39:00Z</updated>
-    <id>https://docinoffice.ru/news/2016/08/04/fb2-word-viewer-v1.0.12/</id>
+    <id>https://docinoffice.github.io/news/2016/08/04/fb2-word-viewer-v1.0.12/</id>
     <content type="html">&lt;p&gt;Привет народ.&lt;/p&gt;
 &lt;p&gt;Доступна новая версия FB2 Word Viewer 1.0.12.&lt;/p&gt;
 &lt;p&gt;Исправлены существенные ошибки, связанные с изображениями.&lt;/p&gt;
 &lt;p&gt;Добавлен инсталлятор для Microsoft Word 2007 под 64 битый Windows.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.github.io/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Word Viewer 1.0.11</title>
-    <link href="https://docinoffice.ru/news/2016/06/07/fb2-word-viewer-v1.0.11/" />
+    <link href="https://docinoffice.github.io/news/2016/06/07/fb2-word-viewer-v1.0.11/" />
     <updated>2016-06-07T08:15:00Z</updated>
-    <id>https://docinoffice.ru/news/2016/06/07/fb2-word-viewer-v1.0.11/</id>
+    <id>https://docinoffice.github.io/news/2016/06/07/fb2-word-viewer-v1.0.11/</id>
     <content type="html">&lt;p&gt;Привет народ.&lt;/p&gt;
 &lt;p&gt;Доступна новая версия FB2 Word Viewer 1.0.11.&lt;/p&gt;
 &lt;p&gt;В основном правки сделаны в инсталляторе, учтены моменты связанные с обновлением до Windows 10.&lt;/p&gt;
 &lt;p&gt;В связи с особенностями обновления до Windows 10 пришлось менять схему инсталляторов.&lt;/p&gt;
 &lt;p&gt;Обратите внимания, теперь они разделяются по разрядности Windows, а не по разрядности офиса как это было раньше.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.github.io/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Word Viewer 1.0.10</title>
-    <link href="https://docinoffice.ru/news/2016/05/06/fb2-word-viewer-v1.0.10/" />
+    <link href="https://docinoffice.github.io/news/2016/05/06/fb2-word-viewer-v1.0.10/" />
     <updated>2016-05-06T15:50:00Z</updated>
-    <id>https://docinoffice.ru/news/2016/05/06/fb2-word-viewer-v1.0.10/</id>
+    <id>https://docinoffice.github.io/news/2016/05/06/fb2-word-viewer-v1.0.10/</id>
     <content type="html">&lt;p&gt;Привет народ.&lt;/p&gt;
 &lt;p&gt;Доступна новая версия FB2 Word Viewer 1.0.10.&lt;/p&gt;
 &lt;p&gt;Добавлена версия для Microsoft Word 2016.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.ru/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения оставляйте через &lt;a href=&quot;https://docinoffice.github.io/contacts/&quot;&gt;обратную связь&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Word Viewer 1.0.6</title>
-    <link href="https://docinoffice.ru/news/2013/12/27/fb2-word-viewer-v1.0.6/" />
+    <link href="https://docinoffice.github.io/news/2013/12/27/fb2-word-viewer-v1.0.6/" />
     <updated>2013-12-27T08:08:00Z</updated>
-    <id>https://docinoffice.ru/news/2013/12/27/fb2-word-viewer-v1.0.6/</id>
+    <id>https://docinoffice.github.io/news/2013/12/27/fb2-word-viewer-v1.0.6/</id>
     <content type="html">&lt;p&gt;Привет народ.&lt;/p&gt;
 &lt;p&gt;Доступна новая версия FB2 Word Viewer 1.0.6.&lt;/p&gt;
 &lt;p&gt;В новой версии поработал над сносками и комментариями.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения присылайте на почту support@docinoffice.ru&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения присылайте на почту docinoffice@mail.ru&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Word Viewer 1.0.5</title>
-    <link href="https://docinoffice.ru/news/2013/10/21/fb2-word-viewer-v1.0.5/" />
+    <link href="https://docinoffice.github.io/news/2013/10/21/fb2-word-viewer-v1.0.5/" />
     <updated>2013-10-21T08:46:00Z</updated>
-    <id>https://docinoffice.ru/news/2013/10/21/fb2-word-viewer-v1.0.5/</id>
+    <id>https://docinoffice.github.io/news/2013/10/21/fb2-word-viewer-v1.0.5/</id>
     <content type="html">&lt;p&gt;Привет народ.&lt;/p&gt;
 &lt;p&gt;Доступна новая версия FB2 Word Viewer 1.0.5 Beta.&lt;/p&gt;
 &lt;p&gt;В новой версии добавлена страница аннотации.&lt;/p&gt;
 &lt;p&gt;Также в новой версии добавлена интеграция с программой Word 2013 x86/x64.&lt;/p&gt;
-&lt;p&gt;Вопросы и предложения присылайте на почту support@docinoffice.ru&lt;/p&gt;
+&lt;p&gt;Вопросы и предложения присылайте на почту docinoffice@mail.ru&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Word Viewer 1.0.4</title>
-    <link href="https://docinoffice.ru/news/2013/09/30/fb2-word-viewer-v1.0.4/" />
+    <link href="https://docinoffice.github.io/news/2013/09/30/fb2-word-viewer-v1.0.4/" />
     <updated>2013-09-30T11:56:00Z</updated>
-    <id>https://docinoffice.ru/news/2013/09/30/fb2-word-viewer-v1.0.4/</id>
+    <id>https://docinoffice.github.io/news/2013/09/30/fb2-word-viewer-v1.0.4/</id>
     <content type="html">&lt;p&gt;Привет народ.&lt;/p&gt;
 &lt;p&gt;Доступна новая версия FB2 Word Viewer 1.0.4 Beta.&lt;/p&gt;
 &lt;p&gt;В новой версии доступен просмотр метаданных книги, т.е. можно просмотреть данные элемента description.&lt;/p&gt;
 &lt;p&gt;Для этого надо открыть вкладку файл и кликнуть по секции FB2:&lt;/p&gt;
-&lt;img src=&quot;https://docinoffice.ru/fb2-word-viewer/images/the-ebook/view-full-description.png&quot; class=&quot;img-responsive&quot;&gt;
+&lt;img src=&quot;https://docinoffice.github.io/fb2-word-viewer/images/the-ebook/view-full-description.png&quot; class=&quot;img-responsive&quot;&gt;
 &lt;p&gt;Пока данный функционал доступен начиная с Word 2010.&lt;/p&gt;
-&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.ru/fb2-word-viewer/download&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.github.io/fb2-word-viewer/download&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Вопросы и предложения присылайте на почту support@docinwords.com.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Word Viewer 1.0.3</title>
-    <link href="https://docinoffice.ru/news/2013/08/30/fb2-word-viewer-v1.0.3/" />
+    <link href="https://docinoffice.github.io/news/2013/08/30/fb2-word-viewer-v1.0.3/" />
     <updated>2013-08-30T08:01:00Z</updated>
-    <id>https://docinoffice.ru/news/2013/08/30/fb2-word-viewer-v1.0.3/</id>
+    <id>https://docinoffice.github.io/news/2013/08/30/fb2-word-viewer-v1.0.3/</id>
     <content type="html">&lt;p&gt;Здравствуйте.&lt;/p&gt;
 &lt;p&gt;Доступна новая версия FB2 Word Viewer 1.0.3.&lt;/p&gt;
 &lt;p&gt;Основные изменения коснулись поддержки MS Word 2010 x64 и инсталлятора.&lt;/p&gt;
 &lt;p&gt;Теперь FB2 Word Viewer может устанавливаться с x64 версией Word 2010.&lt;/p&gt;
-&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.ru/fb2-word-viewer/download&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Скачать программу можно &lt;a href=&quot;https://docinoffice.github.io/fb2-word-viewer/download&quot;&gt;здесь&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Вопросы и предложения присылайте на почту support@docinwords.com.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>FB2 Word Viewer 1.0.1.13</title>
-    <link href="https://docinoffice.ru/news/2013/06/19/fb2-word-viewer-v1.0.1.13/" />
+    <link href="https://docinoffice.github.io/news/2013/06/19/fb2-word-viewer-v1.0.1.13/" />
     <updated>2013-06-19T15:28:00Z</updated>
-    <id>https://docinoffice.ru/news/2013/06/19/fb2-word-viewer-v1.0.1.13/</id>
+    <id>https://docinoffice.github.io/news/2013/06/19/fb2-word-viewer-v1.0.1.13/</id>
     <content type="html">&lt;p&gt;Здравствуйте.&lt;/p&gt;
 &lt;p&gt;Доступна новая версия FB2 Word Viewer 1.0.1.130 Beta&lt;/p&gt;
 &lt;p&gt;Добавлено вывод обложки, титульной страницы и нумерация страниц.&lt;/p&gt;
@@ -224,26 +224,26 @@
   </entry>
   <entry>
     <title>FB2 Word Viewer 1.0.1.12</title>
-    <link href="https://docinoffice.ru/news/2009/03/18/fb2-Word-Viewer-v1.0.1.12/" />
+    <link href="https://docinoffice.github.io/news/2009/03/18/fb2-Word-Viewer-v1.0.1.12/" />
     <updated>2009-03-18T08:30:00Z</updated>
-    <id>https://docinoffice.ru/news/2009/03/18/fb2-Word-Viewer-v1.0.1.12/</id>
+    <id>https://docinoffice.github.io/news/2009/03/18/fb2-Word-Viewer-v1.0.1.12/</id>
     <content type="html">&lt;p&gt;Здравствуйте.&lt;/p&gt;
-&lt;p&gt;Дорогие любители электронных книг хочу вам предложить программу &lt;a href=&quot;https://docinoffice.ru/fb2-word-viewer/&quot;&gt;FB2 Word Viewer&lt;/a&gt;, для просмотра файлов формата Fiction Book 2 (*.fb2).&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://docinoffice.ru/fb2-word-viewer/&quot;&gt;FB2 Word Viewer&lt;/a&gt; представляет из себя расширение для программы Microsoft Word. После его установки файл с расширением .fb2 можно открывать в программе Word. Это возможно сделать через диалог &amp;quot;Открытие документа&amp;quot; (&amp;quot;Open&amp;quot;) или из  Проводника (Windows Explorer).&lt;/p&gt;
+&lt;p&gt;Дорогие любители электронных книг хочу вам предложить программу &lt;a href=&quot;https://docinoffice.github.io/fb2-word-viewer/&quot;&gt;FB2 Word Viewer&lt;/a&gt;, для просмотра файлов формата Fiction Book 2 (*.fb2).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://docinoffice.github.io/fb2-word-viewer/&quot;&gt;FB2 Word Viewer&lt;/a&gt; представляет из себя расширение для программы Microsoft Word. После его установки файл с расширением .fb2 можно открывать в программе Word. Это возможно сделать через диалог &amp;quot;Открытие документа&amp;quot; (&amp;quot;Open&amp;quot;) или из  Проводника (Windows Explorer).&lt;/p&gt;
 &lt;p&gt;Для того чтобы в Microsoft Word открыть файл с расширением .fb2 следует вызвать  диалог &amp;quot;Открытие документа&amp;quot; и в фильтрах файлов выбрать элемент &amp;quot;Fiction Book [Read Only] (*.fb2)&amp;quot;:&lt;/p&gt;
-&lt;img src=&quot;https://docinoffice.ru/fb2-word-viewer/images/the-ebook/opening-fb2-in-microsoft-word.png&quot; class=&quot;img-responsive&quot;&gt;
+&lt;img src=&quot;https://docinoffice.github.io/fb2-word-viewer/images/the-ebook/opening-fb2-in-microsoft-word.png&quot; class=&quot;img-responsive&quot;&gt;
 &lt;p&gt;Таким образом, в списках файлах будут доступны файлы с расширением .fb2. Затем следует выделить необходимые файлы и нажать кнопку открыть.&lt;/p&gt;
 &lt;p&gt;Открытие через проводник (Windows Explorer) может иметь два сценария:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Если до установки расширение .fb2  не было связанно ни с одним приложением, то при двойном щелчке на файле с расширением .fb2 он сразу же будет открыт в программе Word:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;img src=&quot;https://docinoffice.ru/fb2-word-viewer/images/the-ebook/fb2-in-windows-explorer.png&quot; class=&quot;img-responsive&quot;&gt;
+&lt;img src=&quot;https://docinoffice.github.io/fb2-word-viewer/images/the-ebook/fb2-in-windows-explorer.png&quot; class=&quot;img-responsive&quot;&gt;
 &lt;ol start=&quot;2&quot;&gt;
 &lt;li&gt;Если же до установки расширение .fb2  было связанно с каким-либо приложением, то файл можно будет открыть через меню &amp;quot;Открыть с помощью&amp;quot;:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;img src=&quot;https://docinoffice.ru/fb2-word-viewer/images/the-ebook/open-with-menu.png&quot; class=&quot;img-responsive&quot;&gt;
+&lt;img src=&quot;https://docinoffice.github.io/fb2-word-viewer/images/the-ebook/open-with-menu.png&quot; class=&quot;img-responsive&quot;&gt;
 &lt;p&gt;Для удобства просмотра можно использовать режим чтения. Он включается при помощи кнопки в статус панели:&lt;/p&gt;
-&lt;img src=&quot;https://docinoffice.ru/fb2-word-viewer/images/the-ebook/full-screen-reading.png&quot; class=&quot;img-responsive&quot;&gt;
+&lt;img src=&quot;https://docinoffice.github.io/fb2-word-viewer/images/the-ebook/full-screen-reading.png&quot; class=&quot;img-responsive&quot;&gt;
 </content>
   </entry>
 </feed>
